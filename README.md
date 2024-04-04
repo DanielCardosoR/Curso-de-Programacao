@@ -1,2 +1,2 @@
-# Banco-de-Dados-SQL
-Curso de banco de dados -SQL
+Repositorio de programação do curso de Analise e Desenvolvimento de Sistemas
+
